@@ -50,4 +50,4 @@ C,30
 
 ---
 
-Made to help others and learn together.
+Hope someone finds it useful.
